@@ -47,7 +47,7 @@ course project stock-analysis
    - Все в одном!
 
 
-## install
+## install & run
 ```
 pip3 install requirements.txt
 ```

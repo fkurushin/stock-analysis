@@ -10,7 +10,7 @@ market = 0  # можно не задавать. Это рынок, на кото
 # filename = "quotes.txt"
 
 
-def download_data(ticker, period, start, end):
+def download_data(ticker, period, start: str, end: str):
     logger.info(
         f"ticker={ticker}; period={period}; start={start}; end={end}"
     )
