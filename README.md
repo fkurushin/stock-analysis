@@ -47,7 +47,7 @@ course project stock-analysis
    - Все в одном!
 
 
-## deploy on google collab
+## deploy on google collab monolit app
 
 ```commandline
 git clone https://github.com/fkurushin/stock-analysis.git
@@ -61,3 +61,5 @@ pip3 install -q -r stock-analysis/requirements.txt
 ```commandline
 streamlit run stock-analysis/app/main.py
 ```
+
+## deploy on google collab mcroservice app
