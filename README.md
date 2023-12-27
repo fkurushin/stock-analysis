@@ -49,6 +49,7 @@ course project stock-analysis
 
 ## deploy on google collab monolit app
 
+bkinker 1.4.0 installed on google collab machine, so i changed it locally in `requirements.txt`
 ```commandline
 git clone https://github.com/fkurushin/stock-analysis.git
 ```
