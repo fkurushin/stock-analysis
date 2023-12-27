@@ -45,3 +45,13 @@ course project stock-analysis
 8. Управление проектом:
    - Распределение ролей и задач:
    - Все в одном!
+
+
+## install
+```
+pip3 install requirements.txt
+```
+
+```commandline
+streamlit run app/main.py
+```
