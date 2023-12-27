@@ -47,11 +47,17 @@ course project stock-analysis
    - Все в одном!
 
 
-## install & run
+## deploy on google collab
+
+```commandline
+git clone https://github.com/fkurushin/stock-analysis.git
 ```
-pip3 install requirements.txt
+
+
+```commandline
+pip3 install -q -r stock-analysis/requirements.txt
 ```
 
 ```commandline
-streamlit run app/main.py
+streamlit run stock-analysis/app/main.py
 ```
